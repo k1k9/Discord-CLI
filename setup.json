@@ -1,0 +1,45 @@
+{
+    "roles":[
+        "Gamer",
+        "YouTube",
+        "Twitch",
+        "Programmer"
+    ],
+    
+    "channels":{
+        "0":{
+            "name":"",
+            "icon":"✨",
+            "text":["welcome", "notifications"],
+            "voice":[]
+        },
+    
+        "1":{
+            "name":"STAFF",
+            "icon":"🔐",
+            "text":["general","server-logs"],
+            "voice":["general", "meetings"]
+        },
+    
+        "2":{
+            "name":"INFORMATIONS",
+            "icon":"📢",
+            "text":["rules", "announcements", "newbies"],
+            "voice":[]
+        },
+    
+        "3":{
+            "name":"GENERAL TEXT",
+            "icon":"⭐",
+            "text":["general","memes","wanna-play","feedback","bots"],
+            "voice":[]
+        },
+    
+        "4":{
+            "icon":"🔊",
+            "name":"GENERAL VOICE",
+            "text":[],
+            "voice":["FAQ", "Music", "General 1", "General 2", "Private 1", "Private 2"]
+        }
+    }
+}
